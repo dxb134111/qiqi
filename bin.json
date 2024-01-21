@@ -417,7 +417,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "http://f782c6d2.hk-vh-c.x-c.top/3.txt",
+            "url": "https://raw.gitcode.com/dxb134111/xiaoqiqi/raw/main/bin.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
